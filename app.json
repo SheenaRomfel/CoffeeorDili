@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "LeafDetectionApp",
+    "slug": "LeafDetectionApp",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.yourname.leafdetectionapp"
+    },
+    "android": {
+      "permissions": [
+        "CAMERA",
+        "WRITE_EXTERNAL_STORAGE",
+        "CAMERA",
+        "WRITE_EXTERNAL_STORAGE"
+      ],
+      "package": "com.yourname.leafdetectionapp"
+    }
+  }
+}
